@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  width: 400px;
+  margin: 120px auto;
+}
+.content {
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.input {
+  display: inline-block;
+  width: 300px;
+}
